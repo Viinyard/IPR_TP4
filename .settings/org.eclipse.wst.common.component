@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="tp.mri.servlet">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="tp.mri.servlet"/>
+        <property name="java-output-path" value="/tp.mri.servlet/build/classes"/>
+    </wb-module>
+</project-modules>
